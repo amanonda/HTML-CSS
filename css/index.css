@@ -2,7 +2,7 @@ body{
     background-color: green;
 }
 h1{
-    font-size: 200px;
+    font-size: 150px;
     color: #734e30;
     background-color: black;
     padding: 0;
@@ -11,11 +11,14 @@ h1{
 
 li{
     float: left;
-    
+    font-family: sans-serif;
+    list-style: none;
 }
 
 .menu{
     font-size: 200;
     color: white;
     background-color: black;
+    padding: 20px;
+    margin: 20px;
 }
