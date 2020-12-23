@@ -10,10 +10,15 @@ h1{
     float: left;
 }
 
+ul{
+    padding-bottom: 20px;
+}
+
 li{
     float: left;
     font-family: sans-serif;
     list-style: none;   
+    padding-bottom: 20px;
 }
 
 .menu{
